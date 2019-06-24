@@ -15,8 +15,8 @@ function addToList(e){
 
     var todoBox = document.createElement('div');
     var viewHeading = document.createElement('h1');
-    var viewDescription = document.createElement('p');
-    var deleteBtn = document.createElement('button');
+    var viewDescription = document.createElement('p'); 
+    var deleteBtn = document.createElement('button'); 
 
 
     deleteBtn.className = "remove button is-danger";
